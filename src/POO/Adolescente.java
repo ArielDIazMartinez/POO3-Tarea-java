@@ -8,6 +8,8 @@ public class Adolescente extends Hombre{
         super(nombre, apellido, edad);
     }
 
+    
+    
   
 	@Override
     public void  ejecutarAccion() {
