@@ -10,10 +10,10 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		    Familia martinez = new FamiliaMartinez();	
+		    Familia Martinez = new FamiliaMartinez();	
 	        Familia sanchez = new FamiliaSanchez();
 
-	        martinez.ejecutarAccion();
+	        Martinez.ejecutarAccion();
 	       
 	        sanchez.ejecutarAccion();
 	        
